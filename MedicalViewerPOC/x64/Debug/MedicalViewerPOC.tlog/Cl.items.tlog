@@ -1,0 +1,11 @@
+C:\Users\Immad\source\repos\MedicalViewerPOC\IMGUI\imgui.cpp;C:\Users\Immad\source\repos\MedicalViewerPOC\MedicalViewerPOC\x64\Debug\imgui.obj
+C:\Users\Immad\source\repos\MedicalViewerPOC\IMGUI\imgui_draw.cpp;C:\Users\Immad\source\repos\MedicalViewerPOC\MedicalViewerPOC\x64\Debug\imgui_draw.obj
+C:\Users\Immad\source\repos\MedicalViewerPOC\IMGUI\imgui_impl_opengl3.cpp;C:\Users\Immad\source\repos\MedicalViewerPOC\MedicalViewerPOC\x64\Debug\imgui_impl_opengl3.obj
+C:\Users\Immad\source\repos\MedicalViewerPOC\IMGUI\imgui_impl_sdl3.cpp;C:\Users\Immad\source\repos\MedicalViewerPOC\MedicalViewerPOC\x64\Debug\imgui_impl_sdl3.obj
+C:\Users\Immad\source\repos\MedicalViewerPOC\IMGUI\imgui_tables.cpp;C:\Users\Immad\source\repos\MedicalViewerPOC\MedicalViewerPOC\x64\Debug\imgui_tables.obj
+C:\Users\Immad\source\repos\MedicalViewerPOC\IMGUI\imgui_widgets.cpp;C:\Users\Immad\source\repos\MedicalViewerPOC\MedicalViewerPOC\x64\Debug\imgui_widgets.obj
+C:\Users\Immad\source\repos\MedicalViewerPOC\src\camera.cpp;C:\Users\Immad\source\repos\MedicalViewerPOC\MedicalViewerPOC\x64\Debug\camera.obj
+C:\Users\Immad\source\repos\MedicalViewerPOC\src\glad.c;C:\Users\Immad\source\repos\MedicalViewerPOC\MedicalViewerPOC\x64\Debug\glad.obj
+C:\Users\Immad\source\repos\MedicalViewerPOC\src\load.cpp;C:\Users\Immad\source\repos\MedicalViewerPOC\MedicalViewerPOC\x64\Debug\load.obj
+C:\Users\Immad\source\repos\MedicalViewerPOC\src\main.cpp;C:\Users\Immad\source\repos\MedicalViewerPOC\MedicalViewerPOC\x64\Debug\main.obj
+C:\Users\Immad\source\repos\MedicalViewerPOC\src\shader.cpp;C:\Users\Immad\source\repos\MedicalViewerPOC\MedicalViewerPOC\x64\Debug\shader.obj
