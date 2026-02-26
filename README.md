@@ -29,6 +29,7 @@ glTexImage3D(
     volumeData.data()
 );
 ```
-
+Future Improvments: 
+- Add parameters to control color and AABB size
 
 ![GLVolumeViewer Screenshot](screen.png)
