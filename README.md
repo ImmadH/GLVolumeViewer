@@ -3,7 +3,6 @@
 An OpenGL Volume Viewer for `.raw` files.  
 Inspired by: https://github.com/SuboptimalEng/volume-rendering/tree/main
 
----
 
 ## Overview
 
@@ -29,5 +28,7 @@ glTexImage3D(
     GL_UNSIGNED_BYTE,
     volumeData.data()
 );
+```
+
 
 ![GLVolumeViewer Screenshot](screen.png)
