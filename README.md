@@ -29,3 +29,5 @@ glTexImage3D(
     GL_UNSIGNED_BYTE,
     volumeData.data()
 );
+
+![GLVolumeViewer Screenshot](screen.png)
